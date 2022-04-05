@@ -1,0 +1,14 @@
+.not-found-container {
+    height: 600px;
+}
+
+.not-found-msg {
+    padding-top: 100px;
+}
+
+.not-found-msg img {
+    width: 50%;
+    padding-left: 30%;
+
+
+}
