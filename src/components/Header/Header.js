@@ -8,7 +8,7 @@ const Header = () => {
                 <Link to='/home' className="dfr-color-a menu-link menu-link-left">Home</Link>
 
                 <Link to='/reviews' className="dfr-color-a menu-link">Reviews</Link>
-                <Link to='/about' className="dfr-color-a menu-link">Dashboard</Link>
+                <Link to='/dashboard' className="dfr-color-a menu-link">Dashboard</Link>
                 <Link to='/blog' className="dfr-color-a menu-link">Blog</Link>
                 <Link to='/contact' className="dfr-color-a menu-link">Contact</Link>
             </div>
