@@ -1,0 +1,44 @@
+[
+    {
+        "key": "J002RL8IYK",
+        "name": "Maria Rambow",
+        "desc": "Got everything right. Things are very nice. You can shop without any worries",
+        "rate": "4.5",
+        "img": "./img/m-1.jpg"
+    },
+    {
+        "key": "I002RL8IYK",
+        "name": "Wanda Maximoff",
+        "desc": "The thing is very unique. I said it would be urgent. They gave me just the way I like",
+        "rate": "4.9",
+        "img": "./img/m-2.jpg"
+    },
+    {
+        "key": "H002RL8IYK",
+        "name": "Natasha Romanoff",
+        "desc": "This is was my first purchase with them and they did not disappoanted me. Just wow!",
+        "rate": "4.2",
+        "img": "./img/m-3.jpg"
+    },
+    {
+        "key": "G002RL8IYK",
+        "name": "Maria Hill",
+        "desc": "What can I say !! The diary is so beautiful, just like I imagined. Thank you very much",
+        "rate": "4.8",
+        "img": "./img/m-4.jpg"
+    },
+    {
+        "key": "F002RL8IYK",
+        "name": "Jane Dawson",
+        "desc": "I am in love with there products. Got my 3rd purchase and they did not dissapoint at all like always.",
+        "rate": "4.6",
+        "img": "./img/m5.jpg"
+    },
+    {
+        "key": "E002RL8IYK",
+        "name": "Pepper Potts",
+        "desc": "They are very helpful and friendly with their behaviour. Got my package nice and tidy.",
+        "rate": "4.4",
+        "img": "./img/m6.jpg"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "key": "J002RL8IYK",
+        "name": "Maria Hill",
+        "desc": "Got everything right. Things are very nice. You can shop without any worries",
+        "rate": "4.5",
+        "img": "./img/m-1.jpg"
+    },
+    {
+        "key": "I002RL8IYK",
+        "name": "Monica Rambow",
+        "desc": "The thing is very unique. I said it would be urgent. They gave me just the way I like",
+        "rate": "4.8",
+        "img": "./img/m-2.jpg"
+    },
+    {
+        "key": "H002RL8IYK",
+        "name": "Pepper Potts",
+        "desc": "This is was my first purchase with them and they did not disappoanted me. Just wow!",
+        "rate": "4.6",
+        "img": "./img/m-3.jpg"
+    }
+]

@@ -1,6 +1,6 @@
 
 import Banner from '../Banner/Banner';
-// import CoursesHome from '../CoursesHome/CoursesHome';
+import ReviewHome from '../ReviewsHome/ReviewHome';
 import './Home.css';
 
 const Home = () => {
@@ -8,7 +8,7 @@ const Home = () => {
         <div>
             <Banner></Banner>
 
-            {/* <CoursesHome></CoursesHome> */}
+            <ReviewHome></ReviewHome>
         </div>
     );
 };
